@@ -71,6 +71,7 @@ Function.prototype.myBind = function() {
     }
 }
 
+
 function addPropToNumber(number) {
 	return this.prop + number;
 }
